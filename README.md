@@ -1,4 +1,3 @@
-# Logistic_Regression_Project
 {
  "cells": [
   {
